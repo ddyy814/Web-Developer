@@ -95,15 +95,15 @@ p{
   #header-nav{
   border-color: black;
   background-color: gray;
-  border-radius: 0;
-  border: 0;
-}
-  #collapsable-nav a { /* Collapsed nav menu text */
+  margin-bottom: 50px;
+  /*border-radius: 0;
+  border: 0;*/
+  }
+  #collapsable-nav a { 
     font-size: 1.5em;
     font-family: sans-serif;
-    
   }
-  #collapsable-nav a span { /* Collapsed nav menu glyph */
+  #collapsable-nav a span { 
     font-size: 1em;
     margin-right: 5px;
   }
@@ -112,6 +112,10 @@ p{
     width: 80%;
     height: 100%;
   }
+  #nav-list {
+  background-color: gray;
+}
+
 }
   /* End Header */
 
