@@ -21,3 +21,4 @@ Hands-on project: Chinese restaurant (HTML,CSS,JavaScript, Ajax, and JSON for We
 - created menu categories page to display items
 
 ## Step 6:
+- created dynamically loading home view content
