@@ -24,5 +24,5 @@
 ## Step 6:
 - created dynamically loading home view content
 
-## Noticed
-- Some images have issues, so it doesn't display in item page.
+## Feature
+- Randomly display special items when you click "Special" in home page.
