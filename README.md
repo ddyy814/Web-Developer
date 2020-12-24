@@ -22,3 +22,6 @@ Hands-on project: Chinese restaurant (HTML,CSS,JavaScript, Ajax, and JSON for We
 
 ## Step 6:
 - created dynamically loading home view content
+
+## Noticed
+- Some images have issues, so it doesn't display in item page.
