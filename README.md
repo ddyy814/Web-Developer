@@ -1,6 +1,6 @@
 
 ## Coursera_Web_Developers
-- Hands-on project: Chinese restaurant (HTML,CSS,JavaScript, Ajax, and JSON for Web Developers)
+Hands-on project: Chinese restaurant (HTML,CSS,JavaScript, Ajax, and JSON for Web Developers)
 - Final Link: https://ddyy814.github.io/Web-Developer/module5-solution/
 
 - Google browser sync command: browser-sync start --server --directory --files "*"
