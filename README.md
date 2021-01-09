@@ -26,3 +26,6 @@ Hands-on project: Chinese restaurant (HTML,CSS,JavaScript, Ajax, and JSON for We
 
 ## Feature
 - Randomly display special items when you click "Special" in home page.
+
+- Screenshot with index.html
+![INDEX](images/index.png)
